@@ -1,0 +1,15 @@
+ID	AMOUNT	COST	UNIT	BRAND	CATEGORY
+1	10	42100	piece	samsung	smartphone
+2	100	5000	piece	fly	smartphone
+3	4	50000	piece	lenovo	notebook
+4	1	25000	piece	apple	audio player
+5	200	12	piece	rex	cable
+6	15	300	L	aqua	water bottle
+7	200	20	kg	dirtCo	fertiliser
+8	1459	70000	kg	minersC	golden ore
+9	1020	10	kg	dirtCo	soil
+10	500	300	box	kalash	7.62 ammo
+11	1130	45000	piece	kalash	bolt-action rifle M1 Garand
+12	1	102000	piece	uralmah	heavy cargo truck
+13	12	1000	beam	zoltan	steel
+14	700	400	box	cuper	5.45 APC ammo
